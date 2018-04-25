@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'GBZMainViewKit'
-  s.version          = '0.1.0'
+  s.version          = '1'
   s.summary          = 'A short description of GBZMainViewKit.'
 
 # This description is used to generate tags and improve search results.
@@ -30,7 +30,7 @@ TODO: Add long description of the pod here.
 
   s.ios.deployment_target = '8.0'
 
-  s.source_files = 'GBZMainViewKit/Classes/**/*'
+  s.source_files = 'GBZMainViewKit/Classes/**'
   
   # s.resource_bundles = {
   #   'GBZMainViewKit' => ['GBZMainViewKit/Assets/*.png']

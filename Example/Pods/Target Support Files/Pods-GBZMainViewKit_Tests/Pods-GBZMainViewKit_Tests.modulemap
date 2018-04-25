@@ -1,0 +1,6 @@
+framework module Pods_GBZMainViewKit_Tests {
+  umbrella header "Pods-GBZMainViewKit_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,16 @@
+PODS:
+  - GBZMainViewKit (1)
+
+DEPENDENCIES:
+  - GBZMainViewKit (from `../`)
+
+EXTERNAL SOURCES:
+  GBZMainViewKit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  GBZMainViewKit: 680cc3c7bdc5a9d257318e165ed814ba1c03059a
+
+PODFILE CHECKSUM: 9bbd474405c1f39388b470373fabf308b01ec6f4
+
+COCOAPODS: 1.5.0
