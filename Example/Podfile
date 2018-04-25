@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'GBZMainViewKit_Example' do
+  pod 'GBZMainViewKit', :path => '../'
+
+  target 'GBZMainViewKit_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
