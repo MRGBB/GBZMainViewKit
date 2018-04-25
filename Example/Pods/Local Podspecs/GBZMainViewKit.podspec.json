@@ -18,5 +18,5 @@
   "platforms": {
     "ios": "8.0"
   },
-  "source_files": "GBZMainViewKit/Classes/**"
+  "source_files": "GBZMainViewKit/Classes/**/*"
 }

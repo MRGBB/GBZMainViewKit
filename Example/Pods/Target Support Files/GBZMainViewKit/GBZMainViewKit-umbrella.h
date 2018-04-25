@@ -10,6 +10,9 @@
 #endif
 #endif
 
+#import "FFCellProtocol.h"
+#import "FFMainView.h"
+#import "UITableViewCell+FFAdd.h"
 
 FOUNDATION_EXPORT double GBZMainViewKitVersionNumber;
 FOUNDATION_EXPORT const unsigned char GBZMainViewKitVersionString[];
